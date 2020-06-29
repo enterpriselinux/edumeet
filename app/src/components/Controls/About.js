@@ -52,7 +52,7 @@ const styles = (theme) =>
 			marginBottom : theme.spacing(3)
 		}
 	});
-const eduMeetUrl='https://edumeet.org';
+const eduMeetUrl='https://cybergate.lk';
 const About = ({
 	aboutOpen,
 	handleCloseAbout,
