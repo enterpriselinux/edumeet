@@ -213,7 +213,7 @@ const JoinDialog = ({
 	};
 	let decodedRoomId = null;                                                          
 	try{                                                                           
-		decodedRoomId = decodeURI(roomId);                                             
+		decodedRoomId = decodeURI(window.location.pathname.slice(1));                                             
 	}catch{                                                                        
 		decodedRoomId = roomId;                                                        
 		roomId = encodeURI(roomId);
