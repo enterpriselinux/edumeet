@@ -2,4 +2,4 @@
 git pull
 git fetch upstream
 git checkout develop
-git merge upstream/develop
+git merge upstream/develop-sanitize
