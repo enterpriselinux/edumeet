@@ -82,7 +82,7 @@ const About = ({
 					You do not need any client application to use this conferencing system.
 					Just need a modern web browser like Chrome, Firefox, Edge, Opera Etc.
 					Whether you are using a Desktop, Tab, Mobile, or Smart TV will not be a
-					matter of concern to use Cyber Meeting.  
+					matter of concern to use Cyber EDUMeet.  
 				</DialogContentText>
 				<DialogContentText align='center' paragraph>
 					<Link href={eduMeetUrl} target='_blank' rel='noreferrer' color='secondary' variant='h6'>
