@@ -123,7 +123,7 @@
 	"label.media": "Média",
 	"label.appearance": "Megjelenés",
 	"label.advanced": "Részletek",
-	"label.addVideo": "Videó hozzáadása",
+	"label.addVideo": "Új videó bemenet hozzáadása",
 	"label.promoteAllPeers": "Mindenkit beengedek",
 	"label.moreActions": "További műveletek",
 	"label.version": "Verzió",
@@ -161,6 +161,7 @@
 	"settings.drawerOverlayed": "Oldalsáv a tartalom felett",
 	"settings.voiceActivatedUnmute": "Beszéd aktivált mikrofon némítás",
 	"settings.noiseThreshold": "Zajszint",
+	"settings.mirrorOwnVideo": null,
 
 	"filesharing.saveFileError": "A file-t nem sikerült elmenteni",
 	"filesharing.startingFileShare": "Fájl megosztása",
