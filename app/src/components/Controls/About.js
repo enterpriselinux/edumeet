@@ -75,7 +75,7 @@ const About = ({
 			</DialogTitle>
 			<DialogContent dividers>
 				<DialogContentText paragraph>
-					Cyber Meeting is a WebRTC based video conferencing system.  
+					Cyber EDUMeet is a WebRTC based video conferencing system.  
 					It is your smart choice for business meetings and distance learning. 
 				</DialogContentText>
 				<DialogContentText paragraph>
